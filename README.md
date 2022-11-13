@@ -2,7 +2,9 @@
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on projects
-- 📫 You can reach me on linkedin => https://www.linkedin.com/in/alfredthompsonovie/ or email => alfredthompsonovie@gmail.com
+- 📫 You can reach me on 
+- linkedin => https://www.linkedin.com/in/alfredthompsonovie/ 
+- email => alfredthompsonovie@gmail.com
 
 <!---
 alfredthompsonOvie/alfredthompsonOvie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
