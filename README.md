@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @alfredthompsonOvie
-- 👀 I’m interested in web development
+- 👋 Hi, I’m alfred thompson Ovie
+- 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me on linkedin - https://www.linkedin.com/in/alfredthompsonovie/
