@@ -1,6 +1,6 @@
 - 👋 Hi, I’m alfred thompson Ovie
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning vue.js
+- 👀 I’m passionate about frontend web development
+- 🌱 Vuejs is my go to javascript framework
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me on 
 - linkedin => https://www.linkedin.com/in/alfredthompsonovie/ 
